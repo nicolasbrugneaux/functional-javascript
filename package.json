@@ -1,5 +1,5 @@
 {
-  "name": "functional-javascript",
+  "name": "functional-js",
   "version": "1.0.0",
   "description": "Inspired by Haskell Prelude module, some helper functions.",
   "main": "./dist/lambda.js",
@@ -7,6 +7,10 @@
     "compile": "node_modules/.bin/gulp",
     "watch": "node_modules/.bin/gulp watch",
     "test": "node_modules/.bin/mocha dist/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nicolasbrugneaux/functional-javascript.git"
   },
   "author": "Nicolas Brugneaux <nicolas.brugneaux@gmail.com>",
   "license": "MIT",
