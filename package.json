@@ -1,6 +1,6 @@
 {
   "name": "functional-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Inspired by Haskell Prelude module, some helper functions.",
   "main": "./dist/lambda.js",
   "scripts": {
